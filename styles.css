@@ -4,13 +4,13 @@
 .moviePic{
 	height: 400px;
 	width: 300px;
-	opacity: 0.9;
+	opacity: 0.5;
 	display: block;
 	margin: 20px auto;
 }
 .movieDetail{
 	position: absolute;
-	top: 110%;
+	top: 50%;
 	width: 100%;
 	text-align: center;
 	font-size: 22px;
